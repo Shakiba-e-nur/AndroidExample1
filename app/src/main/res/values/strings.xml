@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Example1</string>
+    <string name="string1">Shakiba</string>
+    <string name="log_in">Log In</string>
+    <string name="email_address">Email Address</string>
+    <string name="submit">Submit</string>
+</resources>
